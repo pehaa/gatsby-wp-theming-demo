@@ -1,0 +1,13 @@
+{
+  "name": "hahaha",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@pehaa/gatsby-theme-wp-child": "^1.5.1",
+    "gatsby": "^3.14.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
