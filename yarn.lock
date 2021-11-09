@@ -2329,25 +2329,25 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@pehaa/gatsby-theme-wp-child@^1.5.1":
-  version "1.5.1"
-  resolved "https://npm.cloudsmith.io/pehaa/gatsby-wp-theming/@pehaa/gatsby-theme-wp-child/-/1.5.1/gatsby-theme-wp-child-1.5.1.tgz#f9eba5c838c458965480e561135226a0da730f9e"
-  integrity sha512-1zR3Mhws/y4zI/7pn4gHOtzTtNIX5bzSUjcoj4pVWuWh5f0eY9mj8jibslhUM7W6dlhcX7J5DswsKpRuN0aoKw==
+"@pehaa/gatsby-theme-wp-child@^1.5.2":
+  version "1.5.2"
+  resolved "https://npm.cloudsmith.io/pehaa/gatsby-wp-theming/@pehaa/gatsby-theme-wp-child/-/1.5.2/gatsby-theme-wp-child-1.5.2.tgz#1b54f29902355352d3b302f50f97bf75f0859776"
+  integrity sha512-TL+SOe8JlM1tdA+eXOZEWztNX+IDn3cpvyYbfprL+oUya1ddyOYy+vpWWPUJQJcfkih4TdYFMFodf/k+Ffz2Vg==
   dependencies:
     "@chakra-ui/gatsby-plugin" "^2.0.1"
     "@chakra-ui/react" "^1.6.7"
     "@emotion/react" "^11.4.0"
     "@emotion/styled" "^11.3.0"
-    "@pehaa/gatsby-theme-wp-parent" "^1.4.1"
+    "@pehaa/gatsby-theme-wp-parent" "^1.4.2"
     "@wordpress/block-library" "^6.0.0"
     framer-motion "^4.1.17"
     gatsby-plugin-webfonts "^2.1.0"
     html-react-parser "^1.2.8"
 
-"@pehaa/gatsby-theme-wp-parent@^1.4.1":
-  version "1.4.1"
-  resolved "https://npm.cloudsmith.io/pehaa/gatsby-wp-theming/@pehaa/gatsby-theme-wp-parent/-/1.4.1/gatsby-theme-wp-parent-1.4.1.tgz#d792b9336cf66ca162ff3a238093e9ce4832a4a9"
-  integrity sha512-qcrltaUkvo3raBwGYUBep5an52MqDaMCbVTro8vSKNIrVkXBNuCB5l0BLvGS7OmqJD76HQvGcbsYhmX3DBVZLQ==
+"@pehaa/gatsby-theme-wp-parent@^1.4.2":
+  version "1.4.2"
+  resolved "https://npm.cloudsmith.io/pehaa/gatsby-wp-theming/@pehaa/gatsby-theme-wp-parent/-/1.4.2/gatsby-theme-wp-parent-1.4.2.tgz#6768dc7e3bd497741ab7de5a94957aff6319fe23"
+  integrity sha512-QNA1RsyVcXxY3tdTpDUv+E913OBAwuYMnG20wa2FI02ngZNAWUi4VT13soz0PUKDhhP9aOuWMSLB8XDY2yaMVg==
   dependencies:
     gatsby-awesome-pagination "^0.3.8"
     gatsby-plugin-image "^1.13.0"
